@@ -21,5 +21,6 @@ Table of Content
    configurations
    exams
    monitoring
+   glossary
    troubleshooting
 
